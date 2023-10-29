@@ -1,0 +1,10 @@
+
+pip install bing-image-downloader
+pip install scipy
+pip install -r requirements.txt
+python scrape_images.py
+python train_bee_cnn.py
+python train_mite_mobilenet.py
+python validate_models.py
+python interface.py
+

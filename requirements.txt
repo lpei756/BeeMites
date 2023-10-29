@@ -1,0 +1,20 @@
+# Core Libraries
+tensorflow
+numpy
+pandas
+
+# Image Processing
+Pillow
+opencv-python
+
+# Web scraping for image collection
+google_images_download
+requests
+
+# GUI
+PyQt5
+
+# Other Utilities (optional and based on further requirements)
+h5py  # For saving models in HDF5 format
+matplotlib  # For plotting if needed
+
